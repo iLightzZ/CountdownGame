@@ -6,7 +6,7 @@ Countdown is a popular British game show involving word and number tasks.<br>
 
 ## How to play
 *NOTE: These rules have been altered to my liking.*<br><br>
-There are two types of rounds.<br>
+There are two types of rounds.<br><br>
 The first type of round is the Letters round.<br>
 Letters round:<br><br>- The round's current player will be choosing between two letter choices, vowels or consonants. After the player chooses his set of letters (maximum of nine letters), all contestants have to come up with a word from the conjointed letters in thirty seconds.<br>- The player with the longer, but valid, word scores one point per letter. If the player used every letter to make a valid word, that player recieves 18 points.<br><br> *Example*:<br>Contestant One chooses five consonants, then three vowels, then another consonant.<br><br>Selection (word) is:<br>G Y H D N O E U R<br><br>Contestant One declares 7, while Contestant Two declares 8.<br>Contestant One reveals the word 'younger', but Contestant Two reveals the word 'hydrogen' and scores 8 points. Contestant One does not score.<br>The word 'greyhound' would have scored 18 points for using all nine letters<br><br>
 
