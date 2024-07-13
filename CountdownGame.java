@@ -10,12 +10,6 @@ public class CountdownGame
 {
   private Random rand = new Random();
   private Scanner input = new Scanner(System.in);
-  //private Timer myTimer = new Timer();
-  //int secondsPassed = 0;
-  /*private TimerTask task = new TimerTask()
-  {
-    public void run() { secondsPassed++; System.out.printf("%02d:%02d%n", 0, secondsPassed ); if(secondsPassed == 30) {myTimer.cancel();} }
-  };*/
   
   //instance variables
   private final String[] consonants = {"B", "C", "D", "F", "G", "H", "J", "K", "L", "M", "N", "P", "Q", "R", "S", "T", "V", "W", "X", "Y", "Z"};
